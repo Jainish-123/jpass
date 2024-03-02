@@ -1,0 +1,23 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(—ã–úÿÿÿÿ
+\	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(¯¹õÛ
+a	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(¢ƒøÿÿÿÿ
+\	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(ÈÀıû
+\	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(¾ÙåÇ
+[	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(±¹İ:
+]
+java:S1192Ğ"FDefine a constant instead of duplicating this literal "jpass" 3 times.(üØ®À
+A
+java:S1181€"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+A
+java:S1181°"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ıñó¹
+A
+java:S1181í"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+u
+java:S2142ù"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+A
+java:S1181¶"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+u
+java:S2142Á"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾

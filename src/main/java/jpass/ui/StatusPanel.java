@@ -44,7 +44,7 @@ import javax.swing.border.EmptyBorder;
 public class StatusPanel extends JPanel {
 
     private final JLabel label;
-    private final JProgressBar progressBar;
+    public final JProgressBar progressBar;
 
     public StatusPanel() {
         super(new BorderLayout());

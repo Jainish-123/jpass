@@ -155,4 +155,8 @@ public class SearchPanel extends JPanel implements ActionListener {
         }
         return criteria;
     }
+
+    public void setCriteriaFieldText(SearchPanel searchPanel, String test) {
+        this.criteriaField.setText(test);
+    }
 }
